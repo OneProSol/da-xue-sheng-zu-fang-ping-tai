@@ -26,13 +26,16 @@
 
 **用户功能图：**
 1. 登录
-![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2024-12-18%2014:05:36_image.png)
+![image](https://github.com/user-attachments/assets/368beecc-3ec0-46be-b02b-cd08bb190fb9)
 2. 注册
-![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2024-12-18%2014:05:59_image.png)
+![image](https://github.com/user-attachments/assets/f7723718-7811-496e-937a-0caa17954653)
+
 3. 首页
-![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2024-12-18%2014:06:44_image.png)
+![image](https://github.com/user-attachments/assets/3f1c4df0-bbb6-4c6b-9974-8b2f017aee75)
+
 4. 房源信息
-![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2024-12-18%2014:07:38_image.png)
+![image](https://github.com/user-attachments/assets/bcb96cd2-ba9a-4baf-8c19-17b331260b12)
+
 5. 个人中心
 ![image.png](https://pic.picprosol.com/user_upload/47a0c8c315464e69858d8da56b2d15ba/2024-12-18%2014:07:56_image.png)
 
